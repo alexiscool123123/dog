@@ -1,4 +1,3 @@
-
 function init() { 
 
   const elements = {
@@ -412,4 +411,3 @@ function init() {
 }
   
 window.addEventListener('DOMContentLoaded', init)
-
